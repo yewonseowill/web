@@ -1,4 +1,8 @@
 # 웹응용기술 개인과제
+
+☑️ 웹응용기술-20231065-서예원-002.pdf의 일부
+<hr>
+
 ![스크린샷 2025-06-08 23 51 41](https://github.com/user-attachments/assets/000542f7-31a1-4c28-8197-a771f3d38d05)
 <img width="1464" alt="스크린샷 2025-06-08 23 52 27" src="https://github.com/user-attachments/assets/5353930b-a405-4fe8-ac19-ff0b571b58d4" />
 
